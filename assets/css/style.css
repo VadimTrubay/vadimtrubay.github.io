@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #0ac404;
+  color: #50c700;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -97,14 +97,14 @@
 
 /* .readme:hover{
   color: white;
-  background-color: #0ac404;
+  background-color: #50c700;
 } */
 
 .contactme {
   position: relative;
   padding: 11px 35px;
   background: none;
-  color: #0ac404;
+  color: #fff;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #0ac404;
+  color: #fff;
   background-color: white;
 }
 /* main body */
@@ -124,6 +124,7 @@
 /* body-color */
 
 body {
+  background-color: #09870d;
   color: #333;
   font-size: 18px;
 }
